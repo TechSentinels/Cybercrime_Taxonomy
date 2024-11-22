@@ -1,0 +1,14 @@
+scikit-learn
+transformers
+streamlit
+torch
+tensorflow==2.17.0
+pandas
+numpy==1.26.4
+joblib
+pillow
+llama-index-llms-gemini
+python-dotenv
+opencv-contrib-python
+#llama-index  #could cause version incompatabilities refrain from installing
+#google-generativeai   #could cause version incompatabilities refrain from installing
