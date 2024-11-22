@@ -1,4 +1,4 @@
-## NCRP Assistant - Cybercrime Taxonomy Overview
+## Cybercrime Taxonomy -NCRP Assistant Overview
 
 The **NCRP Assistant** is an innovative complaint management system designed to streamline the process of submitting and managing complaints related to cybercrime. By leveraging **AI-driven suggestions** and the powerful capabilities of **Gemini**, this application enhances user experience through intelligent categorization and personalized recommendations.
 
@@ -88,20 +88,9 @@ The NCRP Assistant enhances the complaint submission process through intelligent
 - **Interactive Streamlit UI:** Delivers a smooth and intuitive user interface.
 - **Easy Setup:** Quick installation with clear instructions.
 
-## 💡 Contributions
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
 ## 📜 License
 
-This project is licensed under the MIT License; see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## 🌟 Acknowledgments
 
@@ -112,10 +101,17 @@ This project is licensed under the MIT License; see the LICENSE file for details
 
 Citations:
 [1] https://kanerika.com/blogs/google-gemini-ai/
+
 [2] https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune_gemini/tune-gemini-learn
+
 [3] https://www.techtarget.com/searchenterpriseai/definition/Google-Gemini
+
 [4] https://redapplelearning.in/google-ai-gemini-vs-chatgpt-which-ai-language-model-is-better/
+
 [5] https://dorik.com/blog/how-to-use-gemini-ai
+
 [6] https://blog.google/technology/ai/google-gemini-ai/
+
 [7] https://deepmind.google/technologies/gemini/
+
 [8] https://cloud.google.com/gemini/docs/codeassist/supported-languages
